@@ -3,7 +3,7 @@
 $host = "localhost";
 $user = "root";
 $pass = "";
-$db   = "DB_SIMULASI_PBO_KELAS_KharismaPutriIsabela";
+$db   = "db_remedi_pbo_trpl1a_kharismaputriisabela";
 
 $conn = mysqli_connect($host,$user,$pass,$db);
 
